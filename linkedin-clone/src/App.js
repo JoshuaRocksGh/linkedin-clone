@@ -1,10 +1,18 @@
 import React from 'react';
 import './App.css';
+import Header from './components/Header';
 
 function App() {
 	return (
 		<div className='app'>
-			<h1>Let's build a linkedIn CLONE!!!</h1>
+			{/* HEADER */}
+			<Header />
+
+			{/* APP BODY */}
+			<div className='app__body'></div>
+			{/* SIDE BAR */}
+			{/* FEED */}
+			{/* WIDGET */}
 		</div>
 	);
 }
