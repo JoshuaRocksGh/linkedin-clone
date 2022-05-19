@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 3,
+      "rating": 7,
+      "text": "This is item 3 from json server mock backend"
+    },
+    {
+      "rating": "9",
+      "text": "This is a post from Postman tocheck the json mock server",
+      "id": 4
+    },
+    {
+      "text": "This is added from to the db from app",
+      "rating": 8,
+      "id": 5
+    },
+    {
+      "text": "This feedback has been updated .. this is new",
+      "rating": 9,
+      "id": 6
+    }
+  ]
+}
